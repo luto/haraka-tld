@@ -30,7 +30,7 @@
     "punycode": "*"
   },
   "devDependencies": {
-    "eslint": "*",
+    "eslint": ">=3.14.0",
     "grunt": "*",
     "grunt-eslint": "*",
     "grunt-mocha-test": "*",
